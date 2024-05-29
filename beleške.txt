@@ -1,0 +1,11 @@
+package je folder sa funkcijama koje su povezane
+package main
+
+import importuje package ???
+import "fmt"
+
+rezultati treba da budu u okviru fukncije koja će se slati na testiranje u test fajl
+pošto test zahteva neke module u terminalu treba ukucati go mod innit hello
+
+main program se pokreće pomoću go run hello.go
+test pomoću go test
