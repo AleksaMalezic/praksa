@@ -1,7 +1,7 @@
 package blogposts_test
 
 import (
-	blogposts 
+	blogposts "github.com/AleksaMalezic/praksa/blogposts"
 	"testing"
 	"testing/fstest"
 )
